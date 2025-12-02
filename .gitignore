@@ -1,0 +1,77 @@
+# -------------------------------
+# Java Console Project Git Ignore
+# -------------------------------
+
+## OS Files
+.DS_Store
+Thumbs.db
+
+## Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+## Build Output (bin/, out/, build/)
+bin/
+out/
+build/
+target/
+
+## Eclipse
+.project
+.classpath
+.settings/
+.factorypath
+
+## IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IntelliJ build directories
+out/
+gen/
+
+## VSCode
+.vscode/
+
+## Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+/log/
+logs/
+*.swp
+
+## Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+## Package Managers
+node_modules/
+
+## Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.old
+
+## OS Temporary Folders
+tmp/
+temp/
+
+## Others
+*.class
+*.ser
+*.orig
+
+# -------------------------------
+# End of Git Ignore
+# -------------------------------

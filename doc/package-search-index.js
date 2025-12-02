@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.real.project"},{"l":"com.real.project.book"},{"l":"com.real.project.challenge"},{"l":"com.real.project.data"},{"l":"com.real.project.member"},{"l":"com.real.project.recommend"},{"l":"com.real.project.rental"},{"l":"com.real.project.statistics"},{"l":"com.real.project.ui"}];updateSearchResults();
